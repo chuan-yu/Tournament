@@ -1,0 +1,3 @@
+# Udacity Full Stack Web Development Nanodegree Tournament Project
+1. Run this programme using Vagrant Virtual Machine. Navigate to the programme folder and use the command ```vagrant up``` followed by ```vagrant ssh```
+2. The main module is ```tournament.py```. ```tournament.sql``` is used to initialize the database structure. ```tournament_test.py``` is used to test the main module. Run the test using command ```python tournament_test.py```
